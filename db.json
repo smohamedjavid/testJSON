@@ -1,0 +1,56 @@
+{
+    "error": null,
+    "data": {
+        "id": 36,
+        "starts_at": "2019-01-01T00:00:00.000-06:00",
+        "ends_at": "2020-01-10T00:00:00.000-06:00",
+        "rent_start_date": "2019-02-01",
+        "rent": 1500,
+        "deposit_amount": 3000,
+        "late_fee": 100,
+        "recursive_type": "monthly",
+        "status": "pending",
+        "closed_at": null,
+        "tenant": {
+            "tenant_name": "mytenant",
+            "email": "chmadhu13+230@gmail.com",
+            "phone_country_code": null,
+            "phone_number": "+14699961705"
+        },
+        "property": {
+            "id": 38,
+            "name": "Plano flat with images",
+            "address1": "8000 pkwy",
+            "address2": "APT 1234",
+            "city": "Plano",
+            "zipcode": "12345",
+            "state_name": "West Virginia",
+            "state_id": 97,
+            "country_name": "UNITED STATES OF AMERICA",
+            "country_id": 1
+        },
+        "owner": {
+            "name": "Owner1Account",
+            "email": "chmadhu13@gmail.com",
+            "phone_country_code": "+1",
+            "phone_number": "4699961705---2018-09-03 08:25:40 -0500"
+        },
+        "assets": [
+            {
+                "id": 120,
+                "content_type": "image/png",
+                "file_size": 148173,
+                "user_id": 3,
+                "file_url": "https://resize.indiatvnews.com/en/centered/newbucket/715_431/2018/03/h6-1521531233.jpg"
+            }
+        ],
+        "show_history": true,
+        "owner_view": true,
+        "actions_and_toasts": {
+            "view_history": {
+                "show": true,
+                "disable": false
+            }
+        }
+    }
+}
